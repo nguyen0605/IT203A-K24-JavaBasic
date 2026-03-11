@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HCM_KS24_CNTT1_VuDangNguyen/HCM_KS24_CNTT1_VuDangNguyen.iml" filepath="$PROJECT_DIR$/HCM_KS24_CNTT1_VuDangNguyen/HCM_KS24_CNTT1_VuDangNguyen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HCM_KS24_CNTT1_VuDangNguyen_SS11/HCM_KS24_CNTT1_VuDangNguyen_SS11.iml" filepath="$PROJECT_DIR$/HCM_KS24_CNTT1_VuDangNguyen_SS11/HCM_KS24_CNTT1_VuDangNguyen_SS11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HCM_KS24_CNTT1__VuDangNguyen/HCM_KS24_CNTT1__VuDangNguyen.iml" filepath="$PROJECT_DIR$/HCM_KS24_CNTT1__VuDangNguyen/HCM_KS24_CNTT1__VuDangNguyen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IT203A-K24-JavaBasic.iml" filepath="$PROJECT_DIR$/.idea/IT203A-K24-JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss1/ss1.iml" filepath="$PROJECT_DIR$/ss1/ss1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss10/ss10.iml" filepath="$PROJECT_DIR$/ss10/ss10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss11/ss11.iml" filepath="$PROJECT_DIR$/ss11/ss11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss13/ss13.iml" filepath="$PROJECT_DIR$/ss13/ss13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss2/ss2.iml" filepath="$PROJECT_DIR$/ss2/ss2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss3/ss3.iml" filepath="$PROJECT_DIR$/ss3/ss3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss4/ss4.iml" filepath="$PROJECT_DIR$/ss4/ss4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss5/ss5.iml" filepath="$PROJECT_DIR$/ss5/ss5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss6/ss6.iml" filepath="$PROJECT_DIR$/ss6/ss6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss7/ss7.iml" filepath="$PROJECT_DIR$/ss7/ss7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss9/ss9.iml" filepath="$PROJECT_DIR$/ss9/ss9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
