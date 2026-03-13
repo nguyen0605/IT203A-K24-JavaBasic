@@ -21,13 +21,12 @@ public class btkha1 {
             double t = it.next();
 
             if (t < 34.0 || t > 42.0) {
-                it.remove(); // xóa an toàn
+                it.remove();
             }
         }
 
         System.out.println("Danh sách sau khi lọc: " + temps);
 
-        // Tính trung bình
         double sum = 0;
 
         for (double t : temps) {
