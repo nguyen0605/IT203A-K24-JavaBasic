@@ -1,7 +1,7 @@
 import java.util.List;
 
 public class Main {
-    public static void main(String[] args) {
+    static public void main(String[] args) {
         System.out.println("=== PAYMENT SYSTEM ===");
 
         PaymentMethod[] payments = new PaymentMethod[3];
